@@ -6,6 +6,6 @@ I am a big anime and K-pop fan, I can play the guitar, piano, cello, and violin.
 
 ## Navigation
 
-[Notebook](notebook.mdLinks to an external site.)
+[Notebook]
 
 [Home](index.md)
