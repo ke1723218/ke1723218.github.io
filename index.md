@@ -8,7 +8,7 @@
 
 ## About Me
 
-Click here to learn more → [About Me]
+Click here to learn more → (about.md)
 
 ## Notebook
 
