@@ -18,7 +18,9 @@ Hat block - The starting Block that connects blocks together and starts command.
 Stack / Command Block - Blocks you stack together that command the robot what to do. They are shaped to attach other blocks above or below other blocks.
 C-block - They check if the condition is true or false, They can loop the block(s) within them. They resemble a C.
 Reporter / Oval Block - Reports value in the form of numbers, they can be used and fit in any block with oval input.
-Boolean / Hexagonal Block - 
+Boolean / Hexagonal Block - It returns a condition as either true or false, It fits in any block with a hexagonal shape.
+Repeat Block - The repeat block is a stack block that can loop other stack blocks inside it.
+Wait Until Block - 
 
 
 
