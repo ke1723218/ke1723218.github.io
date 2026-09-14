@@ -1,9 +1,9 @@
 ## Table of Contents
-
+- [Blocks] (#blocks)
+- [Concepts] (#concepts)
+- [Vocabulary] (#vocabulary)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
   - [Headings](#headings)
-
   - [Text Formatting](#text-formatting)
 
 
@@ -13,6 +13,32 @@
 
 
 
+## Blocks
+Hat block - The starting Block that connects blocks together and starts command. It looks like a hat.
+Stack / Command Block - Blocks you stack together that command the robot what to do. They are shaped to attach other blocks above or below other blocks.
+C-block - They check if the condition is true or false, They can loop the block(s) within them. They resemble a C.
+Reporter / Oval Block - Reports value in the form of numbers, they can be used and fit in any block with oval input.
+Boolean / Hexagonal Block - 
+
+
+
+
+
+
+
+## Concepts
+
+
+
+
+
+
+
+
+
+
+
+## Vocabulary
 
 
 
