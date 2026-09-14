@@ -19,8 +19,10 @@ Stack / Command Block - Blocks you stack together that command the robot what to
 C-block - They check if the condition is true or false, They can loop the block(s) within them. They resemble a C.
 Reporter / Oval Block - Reports value in the form of numbers, they can be used and fit in any block with oval input.
 Boolean / Hexagonal Block - It returns a condition as either true or false, It fits in any block with a hexagonal shape.
-Repeat Block - The repeat block is a stack block that can loop other stack blocks inside it.
-Wait Until Block - 
+Repeat Block - The repeat block is a C-block that can loop other stack blocks inside it.
+Wait Until Block - A block that accepts the Boolean Block conditions. The project wont continue until the Wait Until block reports as true.
+If Then Blocks - It is a C-Block, it only checks the Boolean Block conditions once if TRUE it will run, if FALSE it will be skipped.
+Forever Blocks - A C-Block that repeats any block inside forever. It can be exited by placing a break block inside.
 
 
 
