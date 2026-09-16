@@ -28,10 +28,16 @@ Forever Blocks - A C-Block that repeats any block inside forever. It can be exit
 
 
 ## Concepts
-Sequence - 
-
-
-
+Sequence - The order of command is matters because if you put everything out of order then it will mess with the robots programming and it wont work properly.
+Parameters - Changing an input can change a command by making it do something completely different.
+Loops / Iteration - Programs repeat instructions when they need to do the same thing multiple times.
+Sensors - A robot can use their sensors to sense if something is blocking their way of moving.
+Booleans & Conditions - If a programming is detected to be TRUE, then the program will continue to move on. But, If it is detected to be FALSE then it will either skip over it or completely be stopped.
+Sense / Thing / Act - 
+Comparisons - < > reports TRUE when the Distance Sensor detects an object or surface within its field of view, and within 3000 mm of the sensor. It reports FALSE when the Distance Sensor does not detect an object or surface within 3000 mm.
+Coordinates - A VR Robot has a Location Sensor built in that reports the (X,Y) position of the VR Robot. 
+Conditionals - 
+Patterns - Recognizing repeated behavior can help create better algorithms 
 
 
 
