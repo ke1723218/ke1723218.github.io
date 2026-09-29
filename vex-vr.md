@@ -17,7 +17,7 @@ The goal was to program the VR Robot to drive to my age as of today.
 
 
 ### What I Learned
- I learned how to program the robot to move and turn.
+ I learned how to program the robot to move, turn and stop.
 
 
 
