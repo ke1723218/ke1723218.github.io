@@ -97,3 +97,20 @@ The goal was to solve the same Wall Maze as the "Wall Maze with Bumpers" assignm
 
 ### What I Learned
 I learned how to apply blocks from the Drivetrain, Sensing, and Control categories in the correct sequence in order to successfully navigate the Wall Maze using the Distance Sensor.
+
+
+
+## Challenge: [Disk Color Maze]
+
+### Goal
+
+The goal was to program the VR Robot to move through the Disk Maze from Start to Finish using the Front Eye Sensor to detect the disk colors. Detect at least 5 disk colors before moving to the finish. The green square is the starting point, and the red disk is the finish.
+
+### My Solution
+
+<img width="1569" height="835" alt="Screenshot 2026-09-29 092337" src="https://github.com/user-attachments/assets/5b20331f-1d1c-4338-8b5b-08d68e2e51b6" />
+
+### What I Learned
+I learned how to apply blocks from the Drivetrain, Sensor, and Control categories to be able to solve the Disk Maze Challenge.
+
+
