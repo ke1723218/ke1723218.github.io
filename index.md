@@ -14,3 +14,6 @@ Click here to learn more → [About Me](about.md)
 
 Click here to go to my notebook → [Notebook](notebook.md)
 
+## Engineering Notebook
+
+Click here to go to my Engineering Notebook → [Engineering-notebook](Engineering-notebook.md)
